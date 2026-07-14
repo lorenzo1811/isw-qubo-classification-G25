@@ -1,0 +1,10 @@
+pandas
+numpy
+scikit-learn
+scipy
+joblib
+pytest
+dimod
+dwave-neal
+pyyaml
+streamlit
