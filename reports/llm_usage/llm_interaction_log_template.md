@@ -13,15 +13,15 @@ The same day must not be covered by more than one interaction log. If you feel t
 ## Metadata
 
 ```yaml
-group_id: "GXX"
-repository_url: "https://github.com/..."
+group_id: "G25"
+repository_url: "https://github.com/lorenzo1811/isw-qubo-classification-G25"
 students:
-  - matricola: "60/61/XXXXX"
-    name: "Student 1"
-  - matricola: "60/61/XXXXX"
-    name: "Student 2"
+  - matricola: "60/61/66454"
+    name: "Lorenzo Scanu"
+  - matricola: "60/61/66515"
+    name: "Federico Pitzalis"
 last_update: "YYYY-MM-DD"
-log_id: "GXX-NN"
+log_id: "G25-NN"
 ```
 
 ---
