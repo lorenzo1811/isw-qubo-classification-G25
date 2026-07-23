@@ -1,4 +1,6 @@
 """
+gui.py
+
 Streamlit-based graphical user interface for the QUBO feature selection
 classification project.
 
